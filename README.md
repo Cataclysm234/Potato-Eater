@@ -1,2 +1,2 @@
-# Potato-Eater
-I am a Singaporean student learning programming at NYP.
+# Wen Ree
+I am a Singaporean student learning Engineering at NYP.
